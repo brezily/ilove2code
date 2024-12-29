@@ -44,7 +44,7 @@ def push_to_github(folder_name):
 if __name__ == "__main__":
     # Oluşturmak istediğiniz tarihleri belirleyin
     dates = [
-        datetime(2024, 12, 28),
+        datetime(2024, 12, 29),
         datetime(2024, 12, 30),
         datetime(2024, 12, 31),
         datetime(2025, 1, 27),
